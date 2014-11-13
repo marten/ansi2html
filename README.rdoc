@@ -17,7 +17,7 @@ You will just
   curl github.com/aslakhellesoy/ansi2html/raw/master/examples/summering_feil.txt | ansi2html --envelope > summering_feil.html
   open summering_feil.html
 
-OMG you have a LINUX machine so you will do {TODO WTF is the equivalent of open in LINUX} to open the file.
+OMG you have a LINUX machine so you will do xdg-open to open the file.
 ZOMFG you have WINDOWS. You'll figure out what to do. It works the same as a .htm file.
 
 HTML designers have a special option. Don't use --envelope. This will give you HTML with Scandinavian design instead. Just pump input in and 
